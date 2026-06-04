@@ -1,4 +1,3 @@
-# echo-privacy-policy
 # Privacy Policy for Echo
 
 Last updated: June 2026
@@ -52,4 +51,4 @@ This Privacy Policy may be updated in the future. Any updates will be published 
 
 Developer: Luay Abbas
 
-Email: [abbasluay1981@gmail.com](mailto: abbasluay1981@gmail.com)
+Email: [abbasluay1981@gmail.com](mailto:abbasluay1981@gmail.com)
