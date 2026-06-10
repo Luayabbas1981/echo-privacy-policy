@@ -35,7 +35,6 @@ Data collected by third-party services may be used for:
 ## Children's Privacy
 
 Echo is not specifically designed for children under the age of 13.
-We do not knowingly collect personal information from children. If you believe that a child has provided personal information through the Game, please contact us.
 
 ## Third-Party Services
 
